@@ -47,7 +47,7 @@ Duplicate or reused codes trigger **fraud alerts** instantly.
 
 **Why it matters:**  
 - Directly addresses the problem of **fake drugs** in low-resource environments.  
-- Judges can instantly see **“fraud detection in action”**—a high-impact demo moment.  
+
 - Demonstrates **smart contract logic enforcing rules** on Hedera.  
 
 **How it works:**  
