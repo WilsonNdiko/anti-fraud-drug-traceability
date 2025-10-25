@@ -97,7 +97,7 @@ Pharmacies can scan batches **offline**, then sync the data later with Hedera.
 Animated visualization of batch transfers or microtransaction flow.  
 
 **Why it matters:**  
-- Judges **see the ledger in action** visually.  
+
 - Adds a **polished, interactive hackathon demo experience**.  
 
 **How it works:**  
