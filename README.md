@@ -63,7 +63,7 @@ Interactive table showing each batch’s **history of handlers**, timestamps, an
 Clicking a batch opens a modal with **full transfer details**.  
 
 **Why it matters:**  
-- Judges can **see every transfer and verification step** visually.  
+  
 - Highlights transparency and accountability for each batch.  
 - Makes operational impact **tangible and measurable**.
 
