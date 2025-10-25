@@ -91,7 +91,8 @@ Pharmacies can scan batches **offline**, then sync the data later with Hedera.
 
 ---
 
-### 6. Token Flow Animation (Optional “Wow” Factor)
+### 6. Token Flow Animation
+
 **What it does:**  
 Animated visualization of batch transfers or microtransaction flow.  
 
