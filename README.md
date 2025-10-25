@@ -83,7 +83,7 @@ Pharmacies can scan batches **offline**, then sync the data later with Hedera.
 
 **Why it matters:**  
 - Ensures usability in **low-resource environments** where internet is intermittent.  
-- Demonstrates practical, real-world applicability.  
+ 
 
 **How it works:**  
 - QR codes store batch ID locally.  
@@ -96,9 +96,7 @@ Pharmacies can scan batches **offline**, then sync the data later with Hedera.
 **What it does:**  
 Animated visualization of batch transfers or microtransaction flow.  
 
-**Why it matters:**  
-
-- Adds a **polished, interactive hackathon demo experience**.  
+  
 
 **How it works:**  
 - Frontend animation triggers on batch transfer events.  
