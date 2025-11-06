@@ -2,7 +2,7 @@
 
 [![Hackathon Ready](https://img.shields.io/badge/Hackathon-MVP-blue?style=for-the-badge)](https://hedera.com)
 
-A **hackathon-ready MVP** that tracks drug batches from **Manufacturer → Distributor → Pharmacy** using **Hedera Hashgraph DLT**, verifies authenticity, detects fraud, and visualizes the **chain of custody** in real-time. Designed for **low-resource environments**, this solution prevents fake drugs and enhances patient safety.
+Tracks drug batches from **Manufacturer → Distributor → Pharmacy** using **Hedera Hashgraph DLT**, verifies authenticity, detects fraud, and visualizes the **chain of custody** in real-time. Designed for **low-resource environments**, this solution prevents fake drugs and enhances patient safety.
 
 ---
 
